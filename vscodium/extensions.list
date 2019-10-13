@@ -1,0 +1,9 @@
+# To list extensions
+code --list-extensions
+
+# To install extensions
+codium --install-extension ms-python.python
+
+Extensions
+----------
+ms-python.python

@@ -1,0 +1,14 @@
+{
+    "terminal.integrated.shell.windows": "C:\\WINDOWS\\System32\\cmd.exe",
+    "editor.wordWrap": "wordWrapColumn",
+    "editor.wordWrapColumn": 72,
+    "editor.rulers": [72],
+    "[markdown]": {
+        "editor.wordWrap": "bounded",
+    },
+    "[git-commit]": {
+        "editor.rulers": [72, 50],
+        "editor.wordWrap": "off"
+    },
+    "python.jediEnabled": false
+}
