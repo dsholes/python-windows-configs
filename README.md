@@ -8,4 +8,4 @@ VSCodium:
 - `settings.json` should be copied to `C:\Users\user\AppData\Roaming\VSCodium\User`
 - Follow instructions in `extensions.list` to install all extensions
 
-Consider switching to VSCode to use Settings Sync. Right now it's broken in VSCodium
+Consider switching to VSCode to use Settings Sync. Right now it's broken in VSCodium. Python Language Server may be broken as well.
